@@ -1,6 +1,9 @@
  <h1> Chicken Proje </h1>
 
- Bu proje, tavuk yetiştiriciliği ve çiftlik yönetimi konularında kapsamlı bilgi sağlayan bir web sitesinin ana sayfasini içerir.
+ Bu proje, tavuk yetiştiriciliği ve çiftlik yönetimi konularında kapsamlı bilgi sağlayan bir web sitesinin ana sayfasini içerir. 
+
+ <h2> Full Responsive </h2>
+Bu web sitesi, farklı cihazlarda (bilgisayar, tablet, mobil) sorunsuz çalışacak şekilde tasarlanmıştır, böylece her türlü ekran boyutunda en iyi deneyimi yaşarsınız.
  
  <h2> Kullanilan Teknolojiler </h2>
 
@@ -14,4 +17,3 @@
 
  ![](chicken.gif) 
 
- 
